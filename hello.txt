@@ -3,3 +3,4 @@ hello Hangzhou!
 hello Shanghai!
 hot-fix!
 master test
+hot-fix merge test!
