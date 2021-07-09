@@ -4,3 +4,4 @@ hello Shanghai!
 hot-fix!
 master test
 hot-fix merge test!
+add public key!
